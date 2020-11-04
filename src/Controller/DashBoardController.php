@@ -2,7 +2,7 @@
 
 namespace App\Controller;
 
-use http\Client\Response;
+use Symfony\Component\HttpFoundation\Response;
 
 class DashBoardController
 {
